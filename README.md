@@ -1,2 +1,3 @@
-# freemesh
-一个免费的服务网格产品
+<p align="center">
+<img src="docs/assets/img/freemesh.png" alt="Free Mesh" title="Free Mesh" />
+</p>
